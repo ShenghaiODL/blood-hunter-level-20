@@ -82,6 +82,9 @@
 	<content contentuid="he9e4ff52gfeabg4938ga456g02c5f50c4f28" version="1">Amplify by taking [1]. Alter your blood with supernatural enhancements. Ignore all enemy damage resistances as well as immunities.</content>
 	<content contentuid="h8b577985g5ddag4c91g8f3cgedf060926b54" version="1">&lt;LSTag Type="Image" Info="Inspiration"/&gt; &lt;LSTag Type="Passive" Tooltip="PassiveAmplify_Tooltip"&gt;Amplify&lt;/LSTag&gt;: Ignore &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; instead.</content>
 
+	<content contentuid="h16764a81g1153g4130g9564g162fe2946c5a" version="1">Blood Curse of the Exorcist</content>
+	<content contentuid="h7b047d9egaf79g4433ga99fg3d320b1c3560" version="1">As a bonus action, you choose on creature you can see within 30 feet of you. They can't be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, and can't be possessed.</content>
+
 	<content contentuid="h8c2bf8a8g0239g47e2gb5a0g7e9151c057cd" version="1">Blood Maledict</content>
 	<content contentuid="h4b1e24a3g951ag4568g8fd7g91d2885c3c95" version="1">Blood Maledicts are expended to empower Blood Curses, improving proficiency in combat. You regain expended Blood Maledicts after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 
@@ -122,7 +125,10 @@
 
 	<content contentuid="h6ba1439fg9084g4690gba09g055b9aa0a77d" version="1">Hardened Soul</content>
 	<content contentuid="hdd0c213dg1fd8g4ac2g80f6g97e11b717dcd" version="1">You have &lt;LSTag Tooltip"Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed and Frightened.</content>
-	
+
+	<content contentuid="hf28e9a82gdb77g4377g8afcg3d4d8aa46485" version="1">Sanguine Mastery</content>
+	<content contentuid="h7dba2903g23aeg4970g8667g82b2ca9dd622" version="1">Whenever you score a critical hit with a weapon for which you have an active Crimson Rite, restore one &lt;LSTag Type="Passive" Tooltip="PassiveBloodMaledict_Tooltip"&gt;Blood Maledict&lt;/LSTag&gt; charge.</content>
+
 	<content contentuid="h675f93a0g35aeg4412g8cfagc50553345b08" version="1">Dark Augmentation</content>
 	<content contentuid="h9a582e92gac46g4ac4gaa72gc6af2933b0b5" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increases by 2 meters, and you have a bonus to &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;saving throws&lt;/LSTag&gt; equal to your Hemocraft modifier (minimum of +1).</content>
 	
